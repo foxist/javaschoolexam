@@ -12,11 +12,9 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Zainullin Ruslan
-* Codeship : https://app.codeship.com/foxcomp
+* Codeship : [ ![Codeship Status for foxist/javaschoolexam](https://app.codeship.com/projects/459a1a40-7aa3-0137-4e30-0a200963db18/status?branch=master)](https://app.codeship.com/projects/459a1a40-7aa3-0137-4e30-0a200963db18)
 
-Example of Codeship badge. Please remove the example before you send us the link. 
-[ ![Codeship Status for foxist/javaschoolexam](https://app.codeship.com/projects/459a1a40-7aa3-0137-4e30-0a200963db18/status?branch=master)](https://app.codeship.com/projects/459a1a40-7aa3-0137-4e30-0a200963db18)
-
+Example of Codeship badge. Please remove the example before you send us the link.
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
